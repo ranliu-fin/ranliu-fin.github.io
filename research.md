@@ -10,14 +10,16 @@ permalink: /research/
 
 My research studies how information is acquired, processed, and incorporated into asset prices. Two related strands organize my research. The first uses noisy rational expectations equilibrium (NREE) models to study endogenous information acquisition and the interaction of market access, data-processing technology, and trading constraints. The second studies cognitive frictions in perception and belief formation. Across both strands, a common theme is that a seemingly better information environment---more data, better processing technology, or broader market access---need not make markets more informative or investors better informed.
 
-<h3 style="margin: 35px 0px 10px;">Working Papers</h3>
+<h3 style="margin: 35px 0px 10px;">Job Market Paper</h3>
 
-<p><strong>Market Access and the Production of Information</strong> <em>(Job Market Paper)</em> <a href="/assets/documents/Ran_LIU_JMP_market_access.pdf">[PDF]</a><br>
+<p><strong>Market Access and the Production of Information</strong> <a href="/assets/documents/Ran_LIU_JMP_market_access.pdf">[PDF]</a><br>
 
 <em>Funding:</em> Chazen Institute for Global Business, Bernstein Center for Leadership and Ethics.<br>
 <em>Presentations:</em> Columbia (2020, 2021, 2022); China International Forum on Finance and Policy (2026, scheduled).<br>
 
 <em>Abstract:</em> This paper studies how capital-market opening changes information production and price informativeness when investors differ in data-processing technology and access to soft information. Partial market access can induce foreign institutional investors—efficient processors of data who possess no soft information—to allocate scarce processing capacity to shares they cannot hold, because information about those shares affects the prices of shares they can trade. Market access, portfolio constraints, processing technology, and soft information therefore jointly determine endogenous information production through equilibrium prices. Partial access can make prices more informative even while reducing investors’ average posterior precision. A calibration to the Chinese stock market shows that a small foreign ownership share can nevertheless have a disproportionate effect on information production and price informativeness; further expanding market access has little effect, whereas relaxing the short-sale constraint substantially improves price informativeness.</p>
+
+<h3 style="margin: 35px 0px 10px;">Working Papers</h3>
 
 <p><strong>Reading the Tea Leaves: Benefits and Costs of Learning about Future Demand Shocks</strong> <em>(under review at the Journal of Economic Theory)</em> <a href="https://doi.org/10.2139/ssrn.7489552">[SSRN]</a> <a href="/assets/documents/Ran_LIU_future_demand_shocks_AFA_poster.pdf">[AFA Poster]</a><br>
 <em>Presentations:</em> AFA Poster Session (2021); Finance Theory Group Summer School (2019); Columbia (2018, 2019).<br>
