@@ -1,0 +1,39 @@
+# Basic Information 
+title: Ran Liu
+position: PhD in Finance
+affiliation: Columbia Business School
+affiliation_link: https://business.columbia.edu/
+affiliation_logo: /assets/img/cbs_1line-logo-inverse-rgb-1200px@144ppi.png
+email: rl2844 (at) columbia.edu
+
+# Search Engine Optimization (SEO)
+keywords: Ran Liu, Columbia, finance, asset pricing, information acquisition, information economics, market microstructure, cemfi
+canonical: https://ranliu-fin.github.io
+description: Ran Liu is a finance researcher studying the informational efficiency in financial markets.
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
+link_type: icon #text/icon
+cv_link: /assets/documents/Ran_LIU_CV.pdf
+
+# Images 
+avatar: https://ranliu-fin.github.io/assets/img/Liu_R_2_08.jpg
+
+# Footnotes
+footnote:
+footnote_link:
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+clustrmaps_id:
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME

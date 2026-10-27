@@ -1,0 +1,16 @@
+main:
+
+
+  - title: "References"
+    url: references/
+    right: true
+
+  - title: "Teaching"
+    url: teaching/
+
+  - title: "Research"
+    url: research/
+
+
+  - title: "Home"
+    url: ""
