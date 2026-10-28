@@ -21,8 +21,8 @@ My research studies how information is acquired, processed, and incorporated int
 
 <h3 style="margin: 35px 0px 10px;">Working Papers</h3>
 
-<p><strong>Reading the Tea Leaves: Benefits and Costs of Learning about Future Demand Shocks</strong> <em>(under review at the Journal of Economic Theory)</em> <a href="https://doi.org/10.2139/ssrn.7489552">[SSRN]</a> <a href="/assets/documents/Ran_LIU_future_demand_shocks_AFA_poster.pdf">[AFA Poster]</a><br>
-<em>Presentations:</em> AFA Poster Session (2021); Finance Theory Group Summer School (2019); Columbia (2018, 2019).<br>
+<p><strong>Reading the Tea Leaves: Benefits and Costs of Learning about Future Demand Shocks</strong> <em>(under review at the Journal of Economic Theory)</em> <a href="https://doi.org/10.2139/ssrn.7489552">[SSRN]</a><br>
+<em>Presentations:</em> AFA Poster Session (2021) <a href="/assets/documents/Ran_LIU_future_demand_shocks_AFA_poster.pdf">[Poster]</a> <a href="/assets/documents/AFA.mp3">[Audio]</a>; Finance Theory Group Summer School (2019); Columbia (2018, 2019).<br>
 <em>Abstract:</em> This paper characterizes the equilibrium effects of learning about future demand shocks in a noisy rational expectations equilibrium. A novel future uncertainty channel breaks the fallacy of composition: while investors gain individually from lower conditional variances of future excess payoffs, aggregate acquisition of dividend information declines, making dividends riskier and raising risk premia. Heterogeneity in private information amplifies volatility, and learning about future demand shocks makes prices less informative today but more informative in the future.</p>
 
 
