@@ -12,12 +12,12 @@ My research studies how information is acquired, processed, and incorporated int
 
 <h3 style="margin: 35px 0px 10px;">Job Market Paper</h3>
 
-<p><strong>Market Access and the Production of Information</strong> <a href="/assets/documents/Ran_LIU_JMP_market_access.pdf">[PDF]</a><br>
+<p><strong>Market Access and the Production of Information</strong> <a href="/assets/documents/Ran_LIU_JMP_market_access.pdf">[PDF]</a> <a href="/assets/documents/Ran_LIU_JMP_market_access_online_appendix.pdf">[Online Appendix]</a><br>
 
 <em>Funding:</em> Chazen Institute for Global Business, Bernstein Center for Leadership and Ethics.<br>
 <em>Presentations:</em> Columbia (2020, 2021, 2022); China International Forum on Finance and Policy (2026, scheduled).<br>
 
-<em>Abstract:</em> This paper studies how capital-market opening changes information production and price informativeness when investors differ in data-processing technology and access to soft information. Partial market access can induce foreign institutional investors—efficient processors of data who possess no soft information—to allocate scarce processing capacity to shares they cannot hold, because information about those shares affects the prices of shares they can trade. Market access, portfolio constraints, processing technology, and soft information therefore jointly determine endogenous information production through equilibrium prices. Partial access can make prices more informative even while reducing investors’ average posterior precision. A calibration to the Chinese stock market shows that a small foreign ownership share can nevertheless have a disproportionate effect on information production and price informativeness; further expanding market access has little effect, whereas relaxing the short-sale constraint substantially improves price informativeness.</p>
+<em>Abstract:</em> Market access changes which assets investors can hold and, in turn, reshapes how they allocate scarce data-processing capacity across assets---including assets they cannot hold. Investors with partial access engage in cross-asset learning only when the auxiliary asset is informative enough to be useful but not so informative that its information is already efficiently revealed through prices. As a result, market access can separate different dimensions of informational efficiency: making an asset investable can reduce its price informativeness, while in other cases prices become more informative even as average posterior precision falls. A China calibration shows that partial market access can generate large equilibrium effects by substantially reshaping information allocation and price informativeness despite a small foreign ownership share. Expanding foreign investability further has little impact, while relaxing the short-sale constraint substantially improves price informativeness.</p>
 
 <h3 style="margin: 35px 0px 10px;">Working Papers</h3>
 
