@@ -162,5 +162,31 @@
         margin-right:0;
       }
    }
-   
+
+   /* Mobile/tablet: give the top banner a proper height and a legible logo */
+   @media print, screen and (max-width: 960px) { 
+
+      .topnav {
+        min-height: 56px;
+      }
+
+      .topnav > a:first-child {
+        display: inline-flex;
+        align-items: center;
+        height: 56px;
+        margin-left: 16px;
+      }
+
+      .topnav img {
+        width: 200px;
+        height: auto;
+        margin: 0;
+      }
+
+      .topnav a.icon {
+        top: 16px;
+        padding: 0 16px;
+        font-size: 22px;
+      }
+   }
 
