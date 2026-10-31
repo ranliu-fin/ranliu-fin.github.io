@@ -5,3 +5,7 @@ Gemfile.lock
 .DS_Store
 .jekyll-cache
 git-update.sh
+.build/
+# JMP halves: built in ~/Research and merged on the fly, never versioned
+assets/documents/Ran_LIU_JMP_market_access.pdf
+assets/documents/Ran_LIU_JMP_market_access_online_appendix.pdf
