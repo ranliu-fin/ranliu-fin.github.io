@@ -12,7 +12,7 @@ My research studies how information is acquired, processed, and incorporated int
 
 <h3 style="margin: 35px 0px 10px;">Job Market Paper</h3>
 
-<p><strong>Market Access and the Production of Information</strong> <a href="/assets/documents/Ran_LIU_JMP_market_access.pdf">[PDF]</a> <a href="/assets/documents/Ran_LIU_JMP_market_access_online_appendix.pdf">[Online Appendix]</a><br>
+<p><strong>Market Access and the Production of Information</strong> <a href="/assets/documents/Ran_LIU_JMP_market_access_full.pdf">[PDF]</a><br>
 
 <em>Funding:</em> Chazen Institute for Global Business, Bernstein Center for Leadership and Ethics.<br>
 <em>Presentations:</em> Columbia (2020, 2021, 2022); China International Forum on Finance and Policy (2026, scheduled).<br>
