@@ -8,7 +8,7 @@ permalink: /teaching/
 
 <h2 style="margin: 60px 0px 10px;">Teaching</h2>
 
-I have taught as a teaching assistant MBA, EMBA, MSc, and PhD students at Columbia Business School in corporate finance, continuous-time finance, microeconomics, game theory, and computer programming, and undergraduate students at the University of International Business and Economics in banking.
+At Columbia Business School, I have served as a teaching assistant for courses in corporate finance, continuous-time finance, microeconomics, game theory, and computer programming for MBA, EMBA, MSc, and PhD students. At the University of International Business and Economics, I served as a teaching assistant for an undergraduate banking course.
 
 <h3 style="margin: 35px 0px 10px;">Selected teaching assistantships</h3>
 
