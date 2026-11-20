@@ -19,3 +19,4 @@ At Columbia Business School, I have served as a teaching assistant for courses i
 - Game Theory and Business (MBA), Paolo Siconolfi and Andrea Prat
 - Corporate Finance (EMBA), Roger Mesznik
 - Money and Banking (Undergraduate), Manxue Qu
+
